@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1561045001 source:c:\users\yuh rodrick\documents\fraction\main.cpp
+	"FRACTION.h"
+	<iostream>
+
+1561045070 source:c:\users\yuh rodrick\documents\fraction\fraction.cpp
+	"FRACTION.h"
+	<cmath>
+	<iostream>
+
+1561045070 c:\users\yuh rodrick\documents\fraction\fraction.h
+	<iostream>
+
